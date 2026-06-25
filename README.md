@@ -255,11 +255,10 @@ Generates ticket containing:
 
 ## 👨‍💻 Author
 
-**Praneet Kamble**
+**Mansi Patil**
 
 Computer Engineering Student
 
-Python Developer | AI Enthusiast | Full Stack Learner
 
 ---
 
