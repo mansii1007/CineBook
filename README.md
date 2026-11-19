@@ -123,7 +123,7 @@ View your generated ticket with QR code, or access your booking history to view 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CineBook.git
+git clone https://github.com/mansii1007/CineBook.git
 cd CineBook
 
 # Install dependencies
