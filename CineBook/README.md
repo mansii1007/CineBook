@@ -100,7 +100,7 @@ CineBook/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cinebook.git
+git clone https://github.com/mansii1007/CineBook.git
 cd CineBook
 
 # Install dependencies
